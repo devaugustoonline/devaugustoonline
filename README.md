@@ -1,4 +1,4 @@
-### Ola! Eu sou Ricardo Augusto  😶‍🌫️
+### Biografia!
 
 Olá! Meu nome é Ricardo Augusto e sou um desenvolvedor front-end em início de carreira, apaixonado por criar experiências digitais atraentes e funcionais. Estou cursando Analise e Desenvolvimento de Sistemas e programo desde os 15 anos de idade.
 
