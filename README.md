@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Ricardo Augusto e sou um desenvolvedor front-end em início de carreira, apaixonado por criar experiências digitais atraentes e funcionais. Estou cursando Analise e Desenvolvimento de Sistemas e programo desde os 15 anos de idade.
 
-Embora ainda esteja construindo minha experiência prática, já trabalhei em alguns projetos pessoais e participei de projetos de ecommerces, que me ajudaram a aprimorar minhas habilidades. Estou sempre em busca de aprender mais sobre frameworks como React e Vue.js, e estou entusiasmado para aplicar esse conhecimento em projetos reais.
+Embora ainda esteja construindo minha experiência prática, já trabalhei em alguns projetos pessoais e participei de projetos de ecommerces, que me ajudaram a aprimorar minhas habilidades. Estou sempre em busca de aprender mais sobre frameworks como React e Next, e estou entusiasmado para aplicar esse conhecimento em projetos reais.
 
 Acredito que a colaboração e a comunicação são essenciais para o sucesso de qualquer projeto, e estou ansioso para trabalhar em equipe e contribuir com minhas ideias. Estou aberto a desafios e pronto para crescer na área, aprendendo com profissionais mais experientes.
 
