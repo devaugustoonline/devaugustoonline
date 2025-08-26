@@ -1,12 +1,12 @@
 ### Biografia!
 
-Olá! Meu nome é Ricardo Augusto e sou um desenvolvedor front-end em início de carreira, apaixonado por criar experiências digitais atraentes e funcionais. Estou cursando Analise e Desenvolvimento de Sistemas e programo desde os 15 anos de idade.
+Olá! Meu nome é Ricardo Augusto e sou especialista em cibersegurança, focado no desenvolvimento de ferramentas ofensivas e softwares para administração de sistemas. Programo desde os 15 anos de idade e atualmente curso Análise e Desenvolvimento de Sistemas, sempre buscando aprimorar minhas habilidades técnicas e estratégicas.
 
-Embora ainda esteja construindo minha experiência prática, já trabalhei em alguns projetos pessoais e participei de projetos de ecommerces, que me ajudaram a aprimorar minhas habilidades. Estou sempre em busca de aprender mais sobre frameworks como React e Next, e estou entusiasmado para aplicar esse conhecimento em projetos reais.
+Ao longo da minha trajetória, desenvolvi projetos pessoais voltados à segurança digital e à automação de sistemas, o que me proporcionou experiência prática com análise de vulnerabilidades, criação de scripts e soluções que melhoram a eficiência operacional. Estou constantemente explorando novas técnicas e tecnologias para expandir meu conhecimento na área de cibersegurança.
 
-Acredito que a colaboração e a comunicação são essenciais para o sucesso de qualquer projeto, e estou ansioso para trabalhar em equipe e contribuir com minhas ideias. Estou aberto a desafios e pronto para crescer na área, aprendendo com profissionais mais experientes.
+Acredito que a colaboração e a comunicação são fundamentais para o sucesso de qualquer projeto. Estou sempre aberto a desafios e pronto para contribuir com ideias inovadoras, aprendendo com profissionais experientes e aplicando meu conhecimento para resolver problemas complexos.
 
-Estou empolgado com a possibilidade de fazer parte de um time onde posso desenvolver minhas habilidades e ajudar a criar produtos incríveis!
+Estou entusiasmado com a possibilidade de integrar um time onde possa desenvolver soluções robustas de segurança e administração de sistemas, contribuindo de forma significativa para projetos estratégicos e impactantes.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-augusto-77a32b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
