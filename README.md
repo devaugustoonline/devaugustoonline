@@ -14,12 +14,12 @@ Estou entusiasmado com a possibilidade de integrar um time onde possa desenvolve
 # Tecnologias 
 
 <div style="display: inline_block"><br/>
-   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-   <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+   <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
+   <img align="center" src="https://img.shields.io/badge/Nmap-9CDCFE?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" />
+   <img align="center" src="https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=blue" alt="wireshark" />
+   <img align="center" src="https://img.shields.io/badge/Metasploit-FF2D00?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" />
+   <img align="center" src="https://img.shields.io/badge/Burp_Suite-F58220?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite" />
 </div>
 
 
